@@ -61,7 +61,7 @@ local function get_weather(location)
 	local weather = json:decode(b)
 	local city = weather.name
 	local country = weather.sys.country
-	local temp = 'دمای شهر '..city..' هم اکنون '..weather.main.temp..' درجه سانتی گراد می باشد\n____________________\n @MahDiRoO :)'
+	local temp = 'دمای شهر '..city..' هم اکنون '..weather.main.temp..' درجه سانتی گراد می باشد\n____________________\n @king_dis_love :)'
 	local conditions = 'شرایط فعلی آب و هوا : '
 	if weather.weather[1].main == 'Clear' then
 		conditions = conditions .. 'آفتابی☀'
@@ -83,7 +83,7 @@ local function calc(exp)
 	b,c = http.request(url)
 	text = nil
 	if c == 200 then
-    text = 'Result = '..b..'\n____________________\n @MahDiRoO :)'
+    text = 'Result = '..b..'\n____________________\n @king_dis_love :)'
 	elseif c == 400 then
 		text = b
 	else
