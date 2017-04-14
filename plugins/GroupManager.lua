@@ -3574,8 +3574,8 @@ _برای تغییر زبان_
  *تنظیم زبان* `[فارسی , انگلسیی]`
 
 *〰〰〰〰〰〰〰〰〰*
-🎭*pwered вy :* @MahDiRoO
-💢*cнαɴɴel :* @MaTaDoRTeaM
+🎭*pwered вy :* @KING_DIS_LOVE
+💢*cнαɴɴel :* @MRLOCK_CLI
 ]]
 return text
 end
@@ -3609,8 +3609,8 @@ _To Change The LanGuage_
 *Setlang* `[en , fa]`
 
 *〰〰〰〰〰〰〰〰〰*
-🎭*pwered вy :* @MahDiRoO
-💢*cнαɴɴel :* @MaTaDoRTeaM
+🎭*pwered вy :* @KING_DIS_LOVE
+💢*cнαɴɴel :* @MRLOCK_CLI
 ]]
 return text
 end
@@ -3724,9 +3724,8 @@ text = [[
 *موفق باشید ;)*
 
 *〰〰〰〰〰〰〰〰〰*
-🎭*pwered вy :* @MahDiRoO
-💢*cнαɴɴel :* @MaTaDoRTeaM
-
+🎭*pwered вy :* @KING_DIS_LOVE
+💢*cнαɴɴel :* @MRLOCK_CLI
 ]]
 return text
 end
@@ -3759,8 +3758,8 @@ text = [[
 _To Change The LanGuage_ `[Setlang]` `[en , fa]`
 
 *〰〰〰〰〰〰〰〰〰*
-🎭*pwered вy :* @MahDiRoO
-💢*cнαɴɴel :* @MaTaDoRTeaM
+🎭*pwered вy :* @KING_DIS_LOVE
+💢*cнαɴɴel :* @MRLOCK_CLI
  ]]
 return text
 end
@@ -3793,8 +3792,8 @@ if matches[1] == "راهنمای قفلی" and is_mod(msg) then
 _برای تغییر زبان_ `[تنظیم زبان]` `[فارسی , انگلسیی]`
 
 *〰〰〰〰〰〰〰〰〰*
-🎭*pwered вy :* @MahDiRoO
-💢*cнαɴɴel :* @MaTaDoRTeaM
+🎭*pwered вy :* @KING_DIS_LOVE
+💢*cнαɴɴel :* @MRLOCK_CLI
 ]]
 return text
 end
@@ -3899,8 +3898,8 @@ text = [[
 _To Change The LanGuage_ `[Setlang]` `[en , fa]`
 
 *〰〰〰〰〰〰〰〰〰*
-🎭*pwered вy :* @MahDiRoO
-💢*cнαɴɴel :* @MaTaDoRTeaM
+🎭*pwered вy :* @KING_DIS_LOVE
+💢*cнαɴɴel :* @MRLOCK_CLI
 ]]
 return text
 end
@@ -4002,8 +4001,8 @@ text = [[
 _برای تغییر زبان_ `[تنظیم زبان]` `[فارسی , انگلسیی]`
 
 *〰〰〰〰〰〰〰〰〰*
-🎭*pwered вy :* @MahDiRoO
-💢*cнαɴɴel :* @MaTaDoRTeaM
+🎭*pwered вy :* @KING_DIS_LOVE
+💢*cнαɴɴel :* @MRLOCK_CLI
 ]]
 return text
 end
@@ -4066,8 +4065,8 @@ _Tr en سلام_
 _To Change The LanGuage_ `[Setlang]` `[en , fa]`
 
 *〰〰〰〰〰〰〰〰〰*
-🎭*pwered вy :* @MahDiRoO
-💢*cнαɴɴel :* @MaTaDoRTeaM
+🎭*pwered вy :* @KING_DIS_LOVE
+💢*cнαɴɴel :* @MRLOCK_CLI
 ]]
 return text
 end
@@ -4130,8 +4129,8 @@ _ترجمه en سلام_
 _برای تغییر زبان_ `[تنظیم زبان]` `[فارسی , انگلسیی]`
 
 *〰〰〰〰〰〰〰〰〰*
-🎭*pwered вy :* @MahDiRoO
-💢*cнαɴɴel :* @MaTaDoRTeaM
+🎭*pwered вy :* @KING_DIS_LOVE
+💢*cнαɴɴel :* @MRLOCK_CLI
 ]]
 return text
 end
@@ -4168,16 +4167,15 @@ text = [[
 3⃣._ربات داعمی نداریم به علت کیفیت و کارای بالای ربات._
 *________________*
 *برای خرید به ایدی زیر مراجعه کنید :*
-🆔: @MahDiRoO
-*و اگر ریپورت هستید به :*
-🆔: @MahDiRoO`_`BoT
+🆔: @KING_DIS_LOVE
+
 ]]
 return text
 end
 
 if matches[1] == "ping" or matches[1] == "Ping" or matches[1] == "انلاینی" then
 text = [[
-ρøиg
+  ρøиg 🛡 мαтαdor Online :) 🛡
 ]]
 return text
 end
