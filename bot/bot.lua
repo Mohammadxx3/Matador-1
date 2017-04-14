@@ -102,17 +102,17 @@ function create_config( )
     "Tools",
     "Write"
 	},
-    sudo_users = {377450049},
+    sudo_users = {374734484},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
     info_text = [[» MaTaDoR v5.2
 		
 		»Sudo BoT :
-		» @MahDiRoO
+		» @KING_DIS_LOVE
 		
         
-		v5 https://github.com/MaTaDoRrOo/MaTaDoR
+		
 GoOd luck ;))
 ]],
   }
